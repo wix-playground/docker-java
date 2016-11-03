@@ -1,3 +1,8 @@
+# Wix Fork Notes
+
+The master branch in this fork is pointing at v3.0.6 commit hash and on top of that we have made some adjustments in order to be able to run the library with fasterxml version 2.4.3 in order to overcome a version clash. 
+
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.docker-java/docker-java.svg)](https://mvnrepository.com/artifact/com.github.docker-java/docker-java)
 [![Bintray](https://api.bintray.com/packages/kostyasha/maven/com.github.docker-java%3Adocker-java/images/download.svg)](https://bintray.com/kostyasha/maven/com.github.docker-java%3Adocker-java/_latestVersion) 
 [![Reference Status](https://www.versioneye.com/java/com.github.docker-java:docker-java/reference_badge.svg?style=flat)](https://www.versioneye.com/java/com.github.docker-java:docker-java/references)
